@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1234567890,
+      "filename": "placeholder.zip",
+      "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
+      "romtype": "unofficial",
+      "size": 314572800,
+      "url": "https://example.com/ota-package.zip",
+      "version": "14.1"
+    }
+  ]
+}
