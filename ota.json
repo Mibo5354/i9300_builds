@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1234567890,
-      "filename": "placeholder.zip",
-      "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
+      "datetime": 1588146196,
+      "filename": "lineage-14.1-20200429-UNOFFICIAL-i9300.zip",
+      "id": "A2CFFC6AEE0558D337EB6604E57226325549DC7E",
       "romtype": "unofficial",
-      "size": 314572800,
-      "url": "https://example.com/ota-package.zip",
+      "size": 304494628,
+      "url": "https://github.com/Mibo5354/i9300_ota/releases/download/2020-04-29/lineage-14.1-20200429-UNOFFICIAL-i9300.zip",
       "version": "14.1"
     }
   ]
