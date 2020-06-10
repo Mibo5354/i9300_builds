@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project name="LineageOS/android_packages_apps_Bluetooth" />
+  <project path="packages/apps/Bluetooth" name="Mibo5354/android_packages_apps_Bluetooth" remote="github" />
+</manifest>

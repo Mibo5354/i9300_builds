@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="LineageOS/android_device_samsung_i9300" path="device/samsung/i9300" remote="github" />
+  <project name="LineageOS/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="github" />
+  <project name="Mibo5354/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" />
+  <project name="LineageOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" />
+  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" />
+</manifest>
