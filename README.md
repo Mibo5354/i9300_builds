@@ -1,5 +1,5 @@
 # LineageOS builds for i9300
-#### Latest Build: 202006010 - June Security Update
+#### Latest Build: 20200726 - July Security Update
 
 ###### Additional tweaks:
 * Boeffla sound engine and charging control [pulled from ChronoMonochrome's lineage 15.1 repo]
@@ -7,10 +7,12 @@
 * Forced disable Bluetooth absolute volume 
 * Added OMS support [from LineageSubstratum]. 
 * OTA update support @ [mibo.computer](http://mibo.computer/builds/full/)
+* Optional Experimental HWComposer [[@fourkbomb](https://forum.xda-developers.com/galaxy-s3/orig-development/experimental-lineageos-14-1-i9300-t3696500)]
 
 ###### Optional magisk modules
 * AptX codec support
 * Stock Samsung boot animation
+* HWComposer enabler
 
 ###### TODO
 
