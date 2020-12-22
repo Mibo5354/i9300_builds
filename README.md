@@ -1,12 +1,13 @@
 # LineageOS builds for i9300
-#### Latest Build: 20201029 - October Security Update
+#### Latest Build: 20201221 - December Security Update
 
 ###### Additional tweaks:
 * Boeffla sound engine and charging control [pulled from ChronoMonochrome's lineage 15.1 repo]
+* MagiskHide support, Passes SafetyNet
 * Lower minimum brightness [Oebbler]
 * Forced disable Bluetooth absolute volume 
 * Added OMS support [from LineageSubstratum]. 
-* OTA update support @ [mibo.computer](http://mibo.computer/builds/full/)
+* OTA update support @ [rom.mibo5354.tk](https://rom.mibo5354.tk/builds/full/)
 * Optional Experimental HWComposer [[@fourkbomb](https://forum.xda-developers.com/galaxy-s3/orig-development/experimental-lineageos-14-1-i9300-t3696500)]
 
 ###### Optional magisk modules
@@ -18,8 +19,6 @@
 
 [ ] Add sdcardfs support
 
-[ ] Add MagiskHide support
-
 ###### Build command used
 ```
 docker run \
@@ -29,7 +28,7 @@ docker run \
     -e "SIGN_BUILDS=true" \
     -e "SIGNATURE_SPOOFING=no" \
     -e "CUSTOM_PACKAGES=FDroid FDroidPrivilegedExtension" \
-    -e "OTA_URL=http://152.67.97.3/" \
+    -e "OTA_URL=https://rom.mibo5354.tk/api" \
     -v "/home/user/lineageBuild/lineage:/srv/src" \
     -v "/home/user/lineageBuild/zips:/srv/zips" \
     -v "/home/user/lineageBuild/logs:/srv/logs" \
