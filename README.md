@@ -12,9 +12,9 @@
 * Optional Experimental HWComposer [[@fourkbomb](https://forum.xda-developers.com/galaxy-s3/orig-development/experimental-lineageos-14-1-i9300-t3696500)]
 
 ###### Optional magisk modules
-* AptX codec support
-* Stock Samsung boot animation
-* HWComposer enabler
+* [AptX codec support](https://github.com/Mibo5354/i9300_builds/raw/master/Magisk%20Modules/magisk-module-op3aptx.zip)
+* [Stock Samsung boot animation](https://github.com/Mibo5354/i9300_builds/raw/master/Magisk%20Modules/magisk-samsung-stock-boot-animation.zip)
+* [HWComposer enabler](https://github.com/Mibo5354/i9300_builds/raw/master/Magisk%20Modules/Systemless_HWC.zip)
 
 ###### TODO
 
