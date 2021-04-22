@@ -1,5 +1,5 @@
 # LineageOS builds for i9300
-#### Latest Build: 20210310 - March Security Update
+#### Latest Build: 20210421 - April Security Update
 
 ###### Additional tweaks:
 * Boeffla sound engine and charging control [[@andip71](https://github.com/andip71)]
