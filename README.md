@@ -3,7 +3,7 @@
 
 ###### Additional tweaks:
 * Boeffla sound engine and charging control [[@andip71](https://github.com/andip71)]
-   * Configure with [SmartPack Kernel Manager](https://play.google.com/store/apps/details?id=com.smartpack.kernelmanager.release) or with an init.d script ([example](https://forum.xda-developers.com/t/rom-unofficial-8-1-0-lineageos-15-1-beta-6-03-2019.3862953/page-12#post-78269922)).
+   * Configure with [Exynos4 Kernel Manager](https://play.google.com/store/apps/details?id=com.html6405.boefflakernelconfig) or with an init.d script ([example](https://forum.xda-developers.com/t/rom-unofficial-8-1-0-lineageos-15-1-beta-6-03-2019.3862953/page-12#post-78269922)).
 * MagiskHide support, Passes SafetyNet
 * Lower minimum brightness [[@Oebbler](https://github.com/Mibo5354/android_kernel_samsung_smdk4412/commit/0d207185ac260a6816760cae405b6941b2015918)]
 * Forced disable Bluetooth absolute volume 
