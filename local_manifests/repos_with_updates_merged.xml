@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- Get rid of Lineage repos -->
+    <remove-project name="platform/external/expat" />
+    <remove-project name="LineageOS/android_external_libavc" />
+    <remove-project name="LineageOS/android_external_libexif" />
+    <remove-project name="LineageOS/android_external_libnfc-nci" />
+    <remove-project name="LineageOS/android_external_sonivox" />
+    <remove-project name="LineageOS/android_external_tremolo" />
+    <remove-project name="LineageOS/android_frameworks_av" />
+    <remove-project name="LineageOS/android_frameworks_minikin" />
+    <remove-project name="LineageOS/android_packages_apps_KeyChain" />
+    <remove-project name="LineageOS/android_packages_apps_Nfc" />
+    <remove-project name="LineageOS/android_packages_providers_ContactsProvider" />
+	<remove-project name="LineageOS/android_packages_providers_MediaProvider" />
+	<remove-project name="LineageOS/android_packages_providers_TelephonyProvider" />
+	<remove-project name="LineageOS/android_packages_services_Telecomm" />
+	<remove-project name="LineageOS/android_packages_services_Telephony" />
+	<remove-project name="LineageOS/android_system_bt" />
+	<remove-project name="LineageOS/android_system_core" />
+
+    <!-- Add repos with security updates merged -->
+	<project path="external/expat" name="Mibo5354/android_external_expat" remote="github" revision="cm-14.1" />
+    <project path="external/libavc" name="Mibo5354/android_external_libavc" remote="github" revision="cm-14.1" />
+	<project path="external/libexif" name="Mibo5354/android_external_libexif" remote="github" revision="cm-14.1" />
+	<project path="external/libnfc-nci" name="Mibo5354/android_external_libnfc-nci" remote="github" revision="cm-14.1" />
+	<project path="external/sonivox" name="Mibo5354/android_external_sonivox" remote="github" revision="cm-14.1" />
+	<project path="external/tremolo" name="Mibo5354/android_external_tremolo" remote="github" revision="cm-14.1" />
+	<project path="frameworks/av" name="Mibo5354/android_frameworks_av" remote="github" revision="cm-14.1" />
+	<project path="frameworks/minikin" name="Mibo5354/android_frameworks_minikin" remote="github" revision="cm-14.1" />
+	<project path="packages/apps/KeyChain" name="Mibo5354/android_packages_apps_KeyChain" remote="github" revision="cm-14.1" />
+	<project path="packages/apps/Nfc" name="Mibo5354/android_packages_apps_Nfc" remote="github" revision="cm-14.1" />
+	<project path="packages/providers/ContactsProvider" name="Mibo5354/android_packages_providers_ContactsProvider" remote="github" revision="cm-14.1" />
+	<project path="packages/providers_MediaProvider" name="Mibo5354/android_packages_providers_MediaProvider" remote="github" revision="cm-14.1" />
+	<project path="packages/providers_TelephonyProvider" name="Mibo5354/android_packages_providers_TelephonyProvider" remote="github" revision="cm-14.1" />
+	<project path="packages/services_Telecomm" name="Mibo5354/android_packages_services_Telecomm" remote="github" revision="cm-14.1" />
+	<project path="packages/services_Telephony" name="Mibo5354/android_packages_services_Telephony" remote="github" revision="cm-14.1" />
+	<project path="system/bt" name="Mibo5354/android_system_bt" remote="github" revision="cm-14.1" />
+	<project path="system/core" name="Mibo5354/android_system_core" remote="github" revision="cm-14.1" />
+</manifest>
