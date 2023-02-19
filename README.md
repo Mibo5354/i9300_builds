@@ -1,5 +1,5 @@
 # LineageOS builds for i9300
-#### Latest Build: 20211122 - Partial July and August Security Update
+#### Latest Build: 20230219 - Merged all security updates up to [n-asb-2023-02](https://review.lineageos.org/q/topic:n-asb-2023-02) Feburary Security Update
 
 ###### Additional tweaks:
 * Boeffla sound engine and charging control [[@andip71](https://github.com/andip71)]
@@ -16,9 +16,6 @@
 * [Stock Samsung boot animation](https://github.com/Mibo5354/i9300_builds/raw/master/Magisk%20Modules/magisk-samsung-stock-boot-animation.zip)
 * [HWComposer enabler](https://github.com/Mibo5354/i9300_builds/raw/master/Magisk%20Modules/Systemless_HWC.zip)
 
-###### TODO
-
-[ ] Add sdcardfs support
 
 ###### Build command used
 ```
