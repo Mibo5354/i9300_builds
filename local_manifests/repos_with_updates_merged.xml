@@ -7,6 +7,7 @@
     <remove-project name="LineageOS/android_external_libnfc-nci" />
     <remove-project name="LineageOS/android_external_sonivox" />
     <remove-project name="LineageOS/android_external_tremolo" />
+    <remove-project name="LineageOS/android_external_zlib" />
     <remove-project name="LineageOS/android_frameworks_av" />
     <remove-project name="LineageOS/android_frameworks_minikin" />
     <remove-project name="LineageOS/android_packages_apps_KeyChain" />
@@ -26,6 +27,7 @@
     <project path="external/libnfc-nci" name="Mibo5354/android_external_libnfc-nci" groups="pdk" remote="github" revision="cm-14.1" />
     <project path="external/sonivox" name="Mibo5354/android_external_sonivox" groups="pdk" remote="github" revision="cm-14.1" />
     <project path="external/tremolo" name="Mibo5354/android_external_tremolo" groups="pdk" remote="github" revision="cm-14.1" />
+    <project path="external/zlib" name="Mibo5354/android_external_zlib" groups="pdk" remote="github" revision="cm-14.1" />
     <project path="frameworks/av" name="Mibo5354/android_frameworks_av" groups="pdk" remote="github" revision="cm-14.1" />
     <project path="frameworks/minikin" name="Mibo5354/android_frameworks_minikin" groups="pdk-cw-fs,pdk-fs" remote="github" revision="cm-14.1" />
     <project path="packages/apps/KeyChain" name="Mibo5354/android_packages_apps_KeyChain" groups="pdk-fs" remote="github" revision="cm-14.1" />
@@ -37,4 +39,5 @@
     <project path="packages/services/Telephony" name="Mibo5354/android_packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="github" revision="cm-14.1" />
     <project path="system/bt" name="Mibo5354/android_system_bt" groups="pdk" remote="github" revision="cm-14.1" />
     <project path="system/core" name="Mibo5354/android_system_core" groups="pdk" remote="github" revision="cm-14.1" />
+    
 </manifest>
