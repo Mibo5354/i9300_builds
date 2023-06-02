@@ -1,5 +1,5 @@
 # LineageOS builds for i9300
-#### Latest Build: 20230221 - Merged all security updates up to [n-asb-2023-02](https://review.lineageos.org/q/topic:n-asb-2023-02) Feburary Security Update
+#### Latest Build: 20230602 - Merged all security updates up to [n-asb-2023-05](https://review.lineageos.org/q/topic:n-asb-2023-05) May Security Update
 
 ###### Additional tweaks:
 * Boeffla sound engine and charging control [[@andip71](https://github.com/andip71)]
